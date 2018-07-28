@@ -1,5 +1,8 @@
 package com.sda.mvc.model;
 
+import java.util.ArrayList;
+import java.util.List;
+
 public class GiantModel {
 
     private Health health;
